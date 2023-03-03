@@ -1,0 +1,28 @@
+[ {
+  "vehicleType" : "SEDANS",
+  "licenceNumber" : "01|A101AA|uz",
+  "enteredTime" : "2022-12-10 13:36:26",
+  "enterCurrentMile" : 1670659726252,
+  "leftTime" : "2022-12-10 13:56:04",
+  "state" : -1,
+  "parkingId" : "e9dacdb7-67c5-4f67-8072-811ee6b8cff0",
+  "inPark" : false
+}, {
+  "vehicleType" : "SEDANS",
+  "licenceNumber" : "10|S101SS|uz",
+  "enteredTime" : "2022-12-10 13:55:57",
+  "enterCurrentMile" : 1670662557517,
+  "leftTime" : "2022-12-10 13:55:57",
+  "state" : 51,
+  "parkingId" : "e9dacdb7-67c5-4f67-8072-811ee6b8cff0",
+  "inPark" : true
+}, {
+  "vehicleType" : "SEDANS",
+  "licenceNumber" : "01|A486AA|uz",
+  "enteredTime" : "2022-12-10 14:57:53",
+  "enterCurrentMile" : 1670666273165,
+  "leftTime" : "2022-12-10 14:57:53",
+  "state" : 1,
+  "parkingId" : "e9dacdb7-67c5-4f67-8072-811ee6b8cff0",
+  "inPark" : true
+} ]

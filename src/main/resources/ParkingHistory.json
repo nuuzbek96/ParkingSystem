@@ -1,0 +1,22 @@
+[ {
+  "carNumber" : "01|A101AA|uz",
+  "starTime" : "2022-12-10 13:08:46",
+  "endTime" : "2022-12-10 13:08:49",
+  "amount" : 9.0,
+  "durationTime" : 3,
+  "parkingId" : "e9dacdb7-67c5-4f67-8072-811ee6b8cff0"
+}, {
+  "carNumber" : "01|A101AA|uz",
+  "starTime" : "2022-12-10 13:09:12",
+  "endTime" : "2022-12-10 13:09:17",
+  "amount" : 15.0,
+  "durationTime" : 5,
+  "parkingId" : "e9dacdb7-67c5-4f67-8072-811ee6b8cff0"
+}, {
+  "carNumber" : "01|A101AA|uz",
+  "starTime" : "2022-12-10 13:36:26",
+  "endTime" : "2022-12-10 13:56:04",
+  "amount" : 3534.0,
+  "durationTime" : 1178,
+  "parkingId" : "e9dacdb7-67c5-4f67-8072-811ee6b8cff0"
+} ]

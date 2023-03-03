@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Abu saxiy",
+    "floors": 10,
+    "rows": 5,
+    "columns": 5,
+    "motoPrice": 2.0,
+    "truckPrice": 2.0,
+    "sedanPrice": 3.0,
+    "allSlots": 250,
+    "admin": {
+      "adminId": "e22e7353-d8b5-4cdf-acbc-747f6bd06b49",
+      "login": "123",
+      "password": "1234",
+      "name": "Jasur",
+      "parkingId": "e9dacdb7-67c5-4f67-8072-811ee6b8cff0"
+    },
+    "parkingId": "e9dacdb7-67c5-4f67-8072-811ee6b8cff0"
+  },
+  {
+    "name": "abu saxiy",
+    "floors": 10,
+    "rows": 5,
+    "columns": 5,
+    "motoPrice": 1.0,
+    "truckPrice": 2.0,
+    "sedanPrice": 2.0,
+    "allSlots": 250,
+    "admin": {
+      "adminId": "5c98c290-cf97-4705-9161-0b5f0dc85080",
+      "login": "1111",
+      "password": "1111",
+      "name": "1234",
+      "parkingId": "e1267642-1e0b-4e1c-a933-fcb47257fda5"
+    },
+    "parkingId": "e1267642-1e0b-4e1c-a933-fcb47257fda5"
+  }
+]
